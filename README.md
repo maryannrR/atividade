@@ -1,14 +1,14 @@
 Frame:
 
--Um layout simples que empilha sobrepõe os elementos filhos, começando pelo primeiro adicionado.
--É comum usá-lo para exibir uma única view ou sobrepor views
--Os filhos normalmente ficam alinhados no canto superior esquerdo, a não ser que você use layout_gravity.
+- Um layout simples que empilha sobrepõe os elementos filhos, começando pelo primeiro adicionado.
+- É comum usá-lo para exibir uma única view ou sobrepor views
+- Os filhos normalmente ficam alinhados no canto superior esquerdo, a não ser que você use layout_gravity.
 - Não faz alinhamentos complexos.
 
 Linear:
 
--Layout que organiza os filhos em linha de maneira vertical ou horizontal.
--Seus menus simples, formulários, botões empilhados.
+- Layout que organiza os filhos em linha de maneira vertical ou horizontal.
+- Seus menus simples, formulários, botões empilhados.
 
 
 Constraint:
@@ -18,8 +18,8 @@ Constraint:
 
 ReciclyView:
 
--Não é um layout, mas um componente para listas e grades grandes com rolagem eficiente.
--É comum usalo em listas de mensagens, feeds, galerias.
+- Não é um layout, mas um componente para listas e grades grandes com rolagem eficiente.
+- É comum usalo em listas de mensagens, feeds, galerias.
 
 Relative:
 
